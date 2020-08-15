@@ -5,7 +5,7 @@
 
 📫 How to reach me: 
 
-Enquiry: contact@1998.media
+Enquiry: contact@1998.media |
 Job: job@1998.media
 
 <!--

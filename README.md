@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Ming - An Developer and UI Designer.
+🔭 I’m currently studying at The Hong Kong Polytechnic University and graduated from City University of Hong Kong.
+
+🌱 I’m currently learning SwiftUI (2020)
+
+📫 How to reach me: 
+
+Enquiry: contact@1998.media
+Job: job@1998.media
 
 <!--
 **1998code/1998code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

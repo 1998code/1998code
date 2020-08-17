@@ -3,6 +3,8 @@
 
 🌱 I’m currently learning SwiftUI (2020)
 
+⚡  Freelance Work on Adobe Behance / Stock / dribbble @1998design
+
 📫 How to reach me: 
 
 Enquiry: contact@1998.media |

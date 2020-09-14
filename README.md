@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ming - An Developer and UI Designer.
 🔭 I’m currently studying at The Hong Kong Polytechnic University and graduated from City University of Hong Kong.
 
-🌱 I’m currently learning SwiftUI (2020)
+🌱 My research fields are SwiftUI, ARKit, and Machine Learning related technology. (2020)
 
 ⚡  Freelance Work on Adobe Behance / Stock / dribbble @1998design
 

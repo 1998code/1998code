@@ -7,7 +7,7 @@
 
 📫 Enquiry: contact@1998.media | Job: job@1998.media
 
-📱 My Published iOS/iPadOS App on App Store:
+📱 My Published iOS/iPadOS App:
 
 ### BetterAppIcons (#5 in the US & #7 in China)
 

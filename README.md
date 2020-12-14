@@ -5,7 +5,7 @@
 
 ⚡  Freelance Work on Adobe Behance / Stock / dribbble @1998design
 
-📫 Enquiry: contact@1998.media | Job: job@1998.media
+📫 Enquiry: contact@1998.media | Freelance Job: job@1998.media
 
 📱 My Published iOS/iPadOS App:
 

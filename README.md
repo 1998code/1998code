@@ -17,6 +17,9 @@
 ### BetterSNS (Beta)
 <a href="http://testflight.apple.com/join/3ADak3dH"><img height="50px" src="https://beatscratch.io/assets/testflight-badge.png"/></a>
 
+### Widgets 2 (Alpha)
+<a href="https://testflight.apple.com/join/RfeqK43S"><img height="50px" src="https://beatscratch.io/assets/testflight-badge.png"/></a>
+
 <!--
 **1998code/1998code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

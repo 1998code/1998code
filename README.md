@@ -7,7 +7,7 @@
 
 📫 Enquiry: contact@1998.media | Freelance Job: job@1998.media
 
-📱 My Published iOS/iPadOS App:
+## 📱 My Published iOS/iPadOS App:
 
 ### BetterAppIcons (Reached #1 in the US late 2020)
 

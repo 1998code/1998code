@@ -3,7 +3,7 @@
 
 🌱 My research fields are SwiftUI, ARKit, and Machine Learning related technology.
 
-⚡  Freelance Work on Adobe Behance / Stock / dribbble @1998design
+⚡  Freelance Work on Adobe <a href="https://behance.net/1998design">Behance</a> / Stock / <a href="https://dribbble.com/1998design">dribbble</a> @1998design
 
 📫 Enquiry: contact@1998.media | Freelance Job: job@1998.media
 

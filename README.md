@@ -7,6 +7,8 @@
 
 📫 Enquiry: contact@1998.media | Freelance Job: job@1998.media
 
+💰 Sponsor: https://github.com/sponsors/1998code
+
 ## 📱 My Published iOS/iPadOS App:
 
 BetterAppIcons | Speechable       |  BetterSNS (Beta) | Widgets 2 (Alpha)

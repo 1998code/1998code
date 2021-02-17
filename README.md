@@ -19,6 +19,7 @@ Reached #1 in the US late 2020 | Compatible on Mac (M1 + Intel) | Support cross 
 
 ### Alpha / Beta / Consumer Preview
 Translate (Preview) | BetterSNS (Beta) | Widgets 2 (Alpha)
+------------------- | ---------------- | -----------------
 <a href="https://testflight.apple.com/join/4szIQkpx"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> | <a href="http://testflight.apple.com/join/3ADak3dH"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> | <a href="https://testflight.apple.com/join/RfeqK43S"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a>
 Pay-as-you-go | Whatsapp for iPad | Amazing widget 2021
 

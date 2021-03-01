@@ -21,7 +21,7 @@ Reached #1 in the US late 2020 | Compatible on Mac (M1 + Intel) | Support cross 
 Translate (Pre-release) | BetterSNS (Beta) | Widgets 2 (Alpha)
 ------------------- | ---------------- | -----------------
 <a href="https://testflight.apple.com/join/4szIQkpx"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> | <a href="http://testflight.apple.com/join/3ADak3dH"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> | <a href="https://testflight.apple.com/join/RfeqK43S"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a>
-Pay-as-you-go | Whatsapp for iPad | Amazing widget 2021
+Pay-as-you-go | Whatsapp for iPad | Amazing widget for iOS14
 
 <!--
 **1998code/1998code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

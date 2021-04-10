@@ -9,7 +9,7 @@
 
 💰 Sponsor: https://github.com/sponsors/1998code
 
-## 📱 My Published iOS/iPadOS App:
+## 📱 My Published iOS / iPadOS App:
 
 ### App Store / Mac App Store
 BetterAppIcons | Speechable | auth.

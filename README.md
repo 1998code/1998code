@@ -1,13 +1,13 @@
-### Hi there 👋 I'm Ming - An Developer and UI Designer.
-🔭 I’m currently studying at The Hong Kong Polytechnic University and graduated from City University of Hong Kong.
+### Hi there 👋 Welcome to my Github Profile.
+👨‍💻 I'm MING! | A Developer and UI Designer.
+---- | ----
+🔭 Education Level | Current: The Hong Kong Polytechnic University, and graduated from City University of Hong Kong.
+🌱 Research fields | SwiftUI, ARKit, and Machine Learning related technology.
+⚡  Freelance Work | Adobe <a href="https://behance.net/1998design">Behance</a> / Stock / <a href="https://dribbble.com/1998design">dribbble</a> @1998design
+📫 Enquiry | contact@1998.media or Freelance Job: job@1998.media
+💰 Sponsor | https://github.com/sponsors/1998code
 
-🌱 My research fields are SwiftUI, ARKit, and Machine Learning related technology.
-
-⚡  Freelance Work on Adobe <a href="https://behance.net/1998design">Behance</a> / Stock / <a href="https://dribbble.com/1998design">dribbble</a> @1998design
-
-📫 Enquiry: contact@1998.media | Freelance Job: job@1998.media
-
-💰 Sponsor: https://github.com/sponsors/1998code
+![Github Stats](https://github-readme-stats.vercel.app/api?username=1998code)
 
 ## 📱 My Published iOS / iPadOS App:
 
@@ -28,18 +28,3 @@ Widgets |
 ------- |
 <a href="https://testflight.apple.com/join/RfeqK43S"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> |
 Clean and blur widgets for iOS14 |
-
-<!--
-**1998code/1998code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

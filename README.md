@@ -18,13 +18,7 @@ BetterAppIcons | Speechable | auth.
 Reached #1 in the US late 2020 | Compatible on Mac (M1 + Intel) | Support cross Apple devices
 
 ### Alpha / Beta / Consumer Preview
-Translate (Pre-release) | BetterSNS (Beta)
-------------------- | ----------------
-<a href="https://testflight.apple.com/join/4szIQkpx"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> | <a href="http://testflight.apple.com/join/3ADak3dH"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a>
-Pay-as-you-go | Whatsapp for iPad
-
-### Deprecated
-Widgets |
-------- |
-<a href="https://testflight.apple.com/join/RfeqK43S"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> |
-Clean and blur widgets for iOS14 |
+Translate (Pre-release) | BetterSNS (Beta) | Widgets
+----------------------- | ---------------- | -------
+<a href="https://testflight.apple.com/join/4szIQkpx"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> | <a href="http://testflight.apple.com/join/3ADak3dH"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> | <a href="https://testflight.apple.com/join/RfeqK43S"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a>
+Pay-as-you-go | Whatsapp for iPad | Clean and blur widgets for iOS14

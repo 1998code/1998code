@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my Github Profile.
-👨‍💻 I'm MING! | A Developer and UI Designer.
+👨‍💻 I'm MING! | Developer and UI Designer.
 ---- | ----
 🔭 Education Level | Current: The Hong Kong Polytechnic University, and graduated from City University of Hong Kong.
 🌱 Research fields | SwiftUI, ARKit, and Machine Learning related technology.

@@ -9,7 +9,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=1998code)
 
-## 📱 My Published iOS / iPadOS App:
+## 📱 My iOS / iPadOS / macOS App:
 
 ### App Store / Mac App Store
 BetterAppIcons | Speechable | auth.

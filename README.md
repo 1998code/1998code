@@ -1,16 +1,16 @@
 ### Hi there 👋 Welcome to my Github Profile.
 
-👨‍💻 I'm MING! |  Developer and UI Designer.
+👨‍💻 I'm MING! -  Developer and UI Designer.
 
-🔭 Education Level | Current: The Hong Kong Polytechnic University & Graduated from: City University of Hong Kong.
+🔭 Education Level - Current: The Hong Kong Polytechnic University & Graduated from: City University of Hong Kong.
 
-🌱 Research fields | SwiftUI, Mixed Reality, and Machine Learning related technology.
+🌱 Research fields - SwiftUI, Mixed Reality, and Machine Learning related technology.
 
-⚡  Freelance Work | <a href="https://behance.net/1998design">Behance</a> / Adobe Stock / <a href="https://dribbble.com/1998design">dribbble</a> @1998design
+⚡  Freelance Work - <a href="https://behance.net/1998design">Behance</a> / Adobe Stock / <a href="https://dribbble.com/1998design">dribbble</a> @1998design
 
-📫 Enquiry | contact@1998.media or Freelance Job: job@1998.media
+📫 Enquiry - contact@1998.media or Freelance Job: job@1998.media
 
-💰 Sponsor | https://github.com/sponsors/1998code
+💰 Sponsor - https://github.com/sponsors/1998code
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=1998code)
 

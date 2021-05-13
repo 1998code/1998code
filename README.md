@@ -2,7 +2,7 @@
 
 👨‍💻 I'm MING! -  Developer and UI Designer.
 
-🔭 Education Level - Current: The Hong Kong Polytechnic University & Graduated from: City University of Hong Kong.
+🔭 Education Level - Graduated from: The Hong Kong Polytechnic University & City University of Hong Kong.
 
 🌱 Research fields - SwiftUI, Mixed Reality, and Machine Learning related technology.
 

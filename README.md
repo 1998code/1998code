@@ -2,6 +2,8 @@
 
 👨‍💻 I'm MING! -  Developer and UI Designer.
 
+🥇 Award:  WWDC2021 Swift Student Challenge Winner.
+
 🔭 Education Level - Graduated from: The Hong Kong Polytechnic University & City University of Hong Kong.
 
 🌱 Research fields - SwiftUI, Mixed Reality, and Machine Learning related technology.

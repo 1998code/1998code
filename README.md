@@ -35,7 +35,7 @@ BetterSNS (Beta) | Widgets (Alpha)
 <a href="http://testflight.apple.com/join/3ADak3dH"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> | <a href="https://testflight.apple.com/join/RfeqK43S"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a>
 Whatsapp for iPad | Clean and blur widgets for iOS14
 
-## Deprecated
+### Deprecated
 Translate (Beta)
 ---------------- | 
 <a href="https://testflight.apple.com/join/4szIQkpx"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> | 

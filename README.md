@@ -32,13 +32,13 @@ Support iCloud Drive |
 ### Alpha / Beta / Consumer Preview
 BetterSNS (Beta) | Widgets (Alpha)
 ---------------- | ---------------
-<a href="http://testflight.apple.com/join/3ADak3dH"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> | <a href="https://testflight.apple.com/join/RfeqK43S"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a>
+<a href="http://testflight.apple.com/join/3ADak3dH"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a> | <a href="https://testflight.apple.com/join/RfeqK43S"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a>
 Whatsapp for iPad | Clean and blur widgets for iOS14
 
 ### Deprecated
 Translate (Beta)
 ---------------- | 
-<a href="https://testflight.apple.com/join/4szIQkpx"><img height="40px" src="https://codebit.studio/maze-kingdom/maze-kingdom-presskit/graphics/testflight_badge.png"/></a> | 
+<a href="https://testflight.apple.com/join/4szIQkpx"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a> | 
 Pay-as-you-go | 
 
 ### Have fun

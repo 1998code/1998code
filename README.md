@@ -10,7 +10,7 @@
 
 ⚡  Freelance Work - <a href="https://behance.net/1998design">Behance</a> / Adobe Stock / <a href="https://dribbble.com/1998design">dribbble</a> @1998design
 
-📫 Enquiry - contact@1998.media or Job: job@1998.media
+📫 Enquiry - contact@1998.media
 
 💰 Sponsor - https://github.com/sponsors/1998code
 

@@ -14,7 +14,10 @@
 
 💰 Sponsor - https://github.com/sponsors/1998code
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=1998code&show_icons=true&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=1998code&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=1998code&show_icons=true">
+</picture>
 
 ## 📱 My iOS / iPadOS / macOS App:
 

@@ -2,7 +2,7 @@
 
 👨‍💻 I'm MING! -  Developer and UI Designer.
 
-🥇 Award:  WWDC2021 Swift Student Challenge Winner.
+🥇 Award:  WWDC Swift Student Challenge Winner.
 
 🔭 Education Level - Graduated from: The Hong Kong Polytechnic University & City University of Hong Kong.
 
@@ -10,7 +10,7 @@
 
 ⚡  Freelance Work - <a href="https://behance.net/1998design">Behance</a> / Adobe Stock / <a href="https://dribbble.com/1998design">dribbble</a> @1998design
 
-📫 Enquiry - contact@1998.media
+📫 Enquiry - <a href="mailto:hi@1998.media">hi@1998.media</a>
 
 💰 Sponsor - https://github.com/sponsors/1998code
 

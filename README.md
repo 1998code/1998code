@@ -8,7 +8,7 @@
 
 🌱 Research - SwiftUI, Mixed Reality, and Machine Learning related technology.
 
-⚡ Design - <a href="https://behance.net/1998design">Behance</a> / Adobe Stock / <a href="https://dribbble.com/1998design">dribbble</a> @1998design
+⚡ Design - <a href="https://behance.net/1998design">Behance</a> / Adobe Stock / <a href="https://dribbble.com/1998design">Dribbble</a> @1998design
 
 📫 Enquiry - <a href="mailto:hi@1998.media">hi@1998.media</a>
 

@@ -18,6 +18,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=1998code&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=1998code&show_icons=true">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1998code&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1998code">
+</picture>
 
 ## 📱 My iOS / iPadOS / macOS App:
 

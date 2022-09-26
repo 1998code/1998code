@@ -48,5 +48,5 @@ Translate (Beta)
 <a href="https://testflight.apple.com/join/4szIQkpx"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a> | 
 Pay-as-you-go | 
 
-## Explore the featured projects below
+## Explore all the featured projects
 <img width="300px" src="https://user-images.githubusercontent.com/54872601/118439524-bd6bf880-b718-11eb-9e13-03d6498e074a.png" />

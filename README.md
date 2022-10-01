@@ -39,7 +39,7 @@ Get website status
 ### Alpha / Beta Preview
 BetterSNS (Beta) | Widgets (Alpha)
 ---------------- | ---------------
-<a href="http://testflight.apple.com/join/3ADak3dH"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a> | <a href="https://testflight.apple.com/join/RfeqK43S"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a>
+<img style="width: 60px; height: 60px;" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/b5/7d/edb57d54-6351-e74c-371e-72608a8b39dd/AppIcon-0-85-220-4-2x.png/135x135bb.png" /><a href="http://testflight.apple.com/join/3ADak3dH"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a> | <a href="https://testflight.apple.com/join/RfeqK43S"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a>
 Whatsapp for iPad | Clean and blur iOS widgets
 
 ### Deprecated

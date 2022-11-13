@@ -10,7 +10,7 @@
 
 ⚡ Design - <a href="https://behance.net/1998design">Behance</a> / Adobe Stock / <a href="https://dribbble.com/1998design">Dribbble</a> @1998design
 
-📫 Enquiry - <a href="mailto:hi@1998.media">hi@1998.media</a>
+📫 Enquiry - <a href="mailto:hi@1998.media">Email Me</a>
 
 💰 Sponsor - https://github.com/sponsors/1998code
 

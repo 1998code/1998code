@@ -4,13 +4,13 @@
 
 🥇 Award:  WWDC Swift Student Challenge Winner.
 
-🔭 Education - Graduated from: The Hong Kong Polytechnic University & City University of Hong Kong.
+🔭 Graduated - The Hong Kong Polytechnic University & City University of Hong Kong.
 
 🌱 Research - SwiftUI, Mixed Reality, and Machine Learning related technology.
 
 ⚡ Design - <a href="https://behance.net/1998design">Behance</a> / Adobe Stock / <a href="https://dribbble.com/1998design">Dribbble</a> @1998design
 
-📫 Enquiry - <a href="mailto:hi@1998.media">Email Me</a>
+📫 Enquiry - <a href="mailto:hi+github@1998.media">Email Me</a>
 
 💰 Sponsor - https://github.com/sponsors/1998code
 

@@ -37,16 +37,13 @@ Speechable Docs | nextShot | Is It Down or Just Me
  Files App Extension | For Dribbble Lover | Get website status
 
 ### Alpha / Beta Preview
-BetterSNS (Beta) | Widgets (Alpha)
----------------- | ---------------
-<img style="width: 60px; height: 60px;" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/b5/7d/edb57d54-6351-e74c-371e-72608a8b39dd/AppIcon-0-85-220-4-2x.png/135x135bb.png" /><a href="http://testflight.apple.com/join/3ADak3dH"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a> | <a href="https://testflight.apple.com/join/RfeqK43S"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a>
-Whatsapp for iPad | Clean and blur iOS widgets
+No testing available in open public stage. Bookmark this page and come back later...
 
 ### Deprecated
-Translate (Beta)
----------------- | 
-<a href="https://testflight.apple.com/join/4szIQkpx"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a> | 
-Pay-as-you-go | 
+Translate (Beta) | BetterSNS (Beta) | Widgets (Alpha)
+---------------- | ---------------- | ---------------
+<a href="https://testflight.apple.com/join/4szIQkpx"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a> | <img style="width: 60px; height: 60px;" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/b5/7d/edb57d54-6351-e74c-371e-72608a8b39dd/AppIcon-0-85-220-4-2x.png/135x135bb.png" /><a href="http://testflight.apple.com/join/3ADak3dH"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a> | <a href="https://testflight.apple.com/join/RfeqK43S"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a>
+Pay-as-you-go | Whatsapp for iPad | Clean and blur iOS widgets
 
 ## Explore all the featured projects
 <img width="300px" src="https://user-images.githubusercontent.com/54872601/118439524-bd6bf880-b718-11eb-9e13-03d6498e074a.png" />

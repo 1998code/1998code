@@ -15,12 +15,12 @@
 💰 Sponsor - https://github.com/sponsors/1998code
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=1998code&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=1998code&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitstats.1998.media/api?username=1998code&show_icons=true&theme=tokyonight">
+  <img src="https://gitstats.1998.media/api?username=1998code&show_icons=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" height="195px" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1998code&theme=tokyonight">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1998code">
+  <source media="(prefers-color-scheme: dark)" height="195px" srcset="https://gitstats.1998.media/api/top-langs/?username=1998code&theme=tokyonight">
+  <img height="195px" src="https://gitstats.1998.media/api/top-langs/?username=1998code">
 </picture>
 
 ## 📱 My iOS / iPadOS / macOS App:

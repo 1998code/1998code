@@ -12,7 +12,7 @@
 
 📫 Enquiry - <a href="mailto:hi+github@1998.media">Email Me</a>
 
-💰 Sponsor - https://github.com/sponsors/1998code
+💰 Sponsor - [via Github](https://github.com/sponsors/1998code)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://gitstats.1998.media/api?username=1998code&show_icons=true&theme=tokyonight">

@@ -2,7 +2,7 @@
 
 👨‍💻 I'm MING! -  Developer and UI Designer.
 
-🥇 Award:  WWDC Swift Student Challenge Winner.
+🥇 Award -  WWDC Swift Student Challenge Winner.
 
 🔭 Graduated - The Hong Kong Polytechnic University & City University of Hong Kong.
 

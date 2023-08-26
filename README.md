@@ -8,11 +8,11 @@
 
 🌱 Research - SwiftUI, eXtended Reality (XR), and Machine Learning related technology.
 
-🔬 Expert - iOS, watchOS, iPadOS, and macOS platforms.
+🔬 Expert - iOS, watchOS, iPadOS, macOS, and visionOS platforms.
 
-⚡ Design - <a href="https://behance.net/1998design">Behance</a> / Adobe Stock / <a href="https://dribbble.com/1998design">Dribbble</a> @1998design
+⚡ Design - Adobe <a href="https://behance.net/1998design">Behance</a> & Stock / <a href="https://dribbble.com/1998design">Dribbble</a> @1998design
 
-📫 Enquiry - <a href="mailto:hi+github@1998.media">Send me an Email (Don't Spam, thanks)</a>
+📫 Enquiry - <a href="mailto:hi+github@1998.media">Send me an Email</a>
 
 💰 Sponsor - [via Github](https://github.com/sponsors/1998code)
 

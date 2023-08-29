@@ -41,7 +41,7 @@ Speechable Docs | nextShot | Is It Down or Just Me
 ### Alpha / Beta Preview
 Magic Teleport (Beta) | 
 ---------------- |
-<img style="width: 60px; height: 60px;" src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/21/9e/84/219e8456-f3e9-3139-a4ba-ae46aa9023d2/AppIcon-1x_U007ephone-85-220.png/135x135bb.png" /><a href="https://testflight.apple.com/join/4szIQkpx"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a>
+<img style="width: 60px; height: 60px;" src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/21/9e/84/219e8456-f3e9-3139-a4ba-ae46aa9023d2/AppIcon-1x_U007ephone-85-220.png/135x135bb.png" /><a href="https://testflight.apple.com/join/Geqbbd8X"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a>
 
 
 ### Deprecated / On Hold

@@ -6,7 +6,7 @@
 
 🔭 Graduated - The Hong Kong Polytechnic University & City University of Hong Kong.
 
-🌱 Research - SwiftUI, eXtended Reality (XR), and Machine Learning related technology.
+🌱 Research - SwiftUI, eXtended Reality (XR), and Machine Learning-related technology.
 
 🔬 Expert - iOS, watchOS, iPadOS, macOS, and visionOS platforms.
 
@@ -39,9 +39,12 @@ Speechable Docs | nextShot | Is It Down or Just Me
  Files App Extension | For Dribbble Lover | Get website status
 
 ### Alpha / Beta Preview
-No testing available in open public stage. Bookmark this page and come back later...
+Magic Teleport (Beta) | 
+---------------- |
+<img style="width: 60px; height: 60px;" src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/21/9e/84/219e8456-f3e9-3139-a4ba-ae46aa9023d2/AppIcon-1x_U007ephone-85-220.png/135x135bb.png" /><a href="https://testflight.apple.com/join/4szIQkpx"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a>
 
-### Deprecated
+
+### Deprecated / On Hold
 Translate (Beta) | BetterSNS (Beta) | Widgets (Alpha)
 ---------------- | ---------------- | ---------------
 <a href="https://testflight.apple.com/join/4szIQkpx"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a> | <img style="width: 60px; height: 60px;" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/b5/7d/edb57d54-6351-e74c-371e-72608a8b39dd/AppIcon-0-85-220-4-2x.png/135x135bb.png" /><a href="http://testflight.apple.com/join/3ADak3dH"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a> | <a href="https://testflight.apple.com/join/RfeqK43S"><img height="60px" src="https://user-images.githubusercontent.com/54872601/126759641-f1fe4c1d-c69c-4470-83f2-4ee6b2231f99.png"/></a>

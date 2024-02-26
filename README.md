@@ -6,7 +6,7 @@
 
 🔭 Graduated - The Hong Kong Polytechnic University & City University of Hong Kong.
 
-🌱 Research - SwiftUI, eXtended Reality (XR), and Machine Learning-related technology.
+🌱 Research - SwiftUI, Mixed Reality (MR), and Machine Learning-related technology.
 
 🔬 Expert - iOS, watchOS, iPadOS, macOS, and visionOS platforms.
 

@@ -25,7 +25,7 @@
   <img height="195px" src="https://gitstats.1998.media/api/top-langs/?username=1998code">
 </picture>
 
-## 📱 My iOS, iPadOS, watchOS, App Clips, macOS, visionOS App:
+## 📱 My iOS, iPadOS, watchOS, App Clips, macOS, visionOS App
 
 ### App Store / Mac App Store
 BetterAppIcons | Speechable | auth.

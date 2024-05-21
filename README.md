@@ -16,6 +16,8 @@
 
 💰 Sponsor - [via Github](https://github.com/sponsors/1998code)
 
+## Stats
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://gitstats.1998.media/api?username=1998code&show_icons=true&theme=tokyonight">
   <img src="https://gitstats.1998.media/api?username=1998code&show_icons=true">
@@ -24,6 +26,10 @@
   <source media="(prefers-color-scheme: dark)" height="195px" srcset="https://gitstats.1998.media/api/top-langs/?username=1998code&theme=tokyonight">
   <img height="195px" src="https://gitstats.1998.media/api/top-langs/?username=1998code">
 </picture>
+
+## AI Score
+
+<img src="https://lapras-card-generator-auto.vercel.app/api/svg?b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=MING" width="450px">
 
 ## 📱 My iOS, iPadOS, watchOS, App Clips, macOS, visionOS App
 

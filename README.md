@@ -27,7 +27,7 @@
   <img height="195px" src="https://gitstats.1998.media/api/top-langs/?username=1998code">
 </picture>
 
-## AI Score
+## AI Score (約170万人中TOP15000)
 
 <img src="https://lapras-card-generator-auto.vercel.app/api/svg?b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=MING" width="450px">
 

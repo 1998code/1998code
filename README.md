@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Github Profile.
 
-👨‍💻 I'm MING! -  Developer and UI Designer.
+👨‍💻 I'm MING! - Senior Software Engineer, also  Developer and UI Designer.
 
 🥇 Award -  WWDC Swift Student Challenge Winner.
 
@@ -30,8 +30,9 @@
 </picture>
 
 ## AI Score (約170万人中TOP15000)
-
+<a href="https://lapras.com/public/MING">
 <img src="https://lapras-card-generator-auto.vercel.app/api/svg?b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=MING" width="450px">
+</a>
 
 ## 📱 My iOS, iPadOS, watchOS, App Clips, macOS, visionOS App
 

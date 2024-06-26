@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Github Profile.
 
-👨‍💻 I'm MING! - Senior Software Engineer, also  Developer and UI Designer.
+👨‍💻 I'm MING! - Software Engineer, also  Developer and UI Designer.
 
 🥇 Award -  WWDC Swift Student Challenge Winner.
 

@@ -1,12 +1,12 @@
 ### Hi there 👋 Welcome to my Github Profile.
 
-👨‍💻 I'm MING! - Software Engineer, also  Developer and UI Designer.
+👨‍💻 I'm MING! - Software Engineer,  Developer.
 
 🥇 Award -  WWDC Swift Student Challenge Winner.
 
-🔭 Graduated - The Hong Kong Polytechnic University & City University of Hong Kong.
+🔭 Graduated - The Hong Kong Polytechnic University & City University of Hong Kong. And Google Certified UX Design.
 
-🌱 Research - SwiftUI, Mixed Reality (MR), and Machine Learning-related technology.
+🌱 Fields - SwiftUI (App), nextJS/VueJS (Web) + Tailwind (CSS), Mixed Reality (MR), and Artificial intelligence.
 
 🔬 Expert - iOS, watchOS, iPadOS, macOS, and visionOS platforms.
 

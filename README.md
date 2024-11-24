@@ -12,7 +12,7 @@
 
 ⚡ Design - Adobe <a href="https://behance.net/1998design">Behance</a> & Stock / <a href="https://dribbble.com/1998design">Dribbble</a> @1998design
 
-📚 Languages - Cantonese, English (Proficient), Mandarin (Fluent), Korean (Intermediate), Japanese (Basic)
+📚 Languages - Cantonese (Native), English (Proficient), Mandarin (Fluent), and Korean (Intermediate)
 
 📫 Enquiry - <a href="mailto:hi+github@1998.media">Send me an Email</a>
 

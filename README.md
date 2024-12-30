@@ -4,11 +4,11 @@
 
 🥇 Award -  WWDC Swift Student Challenge Winner.
 
-🔭 Graduated - The Hong Kong Polytechnic University & City University of Hong Kong. And Google Certified UX Design.
+🔭 Graduated - The Hong Kong Polytechnic University, City University of Hong Kong, and Google Certified UX Design.
 
-🌱 Fields - SwiftUI (App), nextJS/VueJS (Web) + Tailwind (CSS), Mixed Reality (MR), and Artificial intelligence.
+🌱 Fields - SwiftUI (App), nextJS/VueJS (Web) and Tailwind (CSS).
 
-🔬 Expert - iOS, watchOS, iPadOS, macOS, and visionOS platforms.
+🔬 Expert - Apple iOS, iPadOS, watchOS, macOS, and visionOS platforms.
 
 ⚡ Design - Adobe <a href="https://behance.net/1998design">Behance</a> & Stock / <a href="https://dribbble.com/1998design">Dribbble</a> @1998design
 

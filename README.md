@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Github Profile.
 
-👨‍💻 I'm MING! - Product Manager, Senior Software Engineer,  Developer.
+👨‍💻 I'm MING! - Sr. Engineer,  Developer.
 
 🥇 Award -  WWDC Swift Student Challenge Winner.
 

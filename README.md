@@ -29,7 +29,7 @@
   <img height="195px" src="https://gitstats.1998.media/api/top-langs/?username=1998code">
 </picture>
 
-## AI Score (Rank Top 0.8% in 1.7M)
+## Performance
 <a href="https://lapras.com/public/MING">
 <img src="https://lapras-card-generator-auto.vercel.app/api/svg?b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=MING" width="450px">
 </a>

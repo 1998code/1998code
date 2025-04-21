@@ -1,14 +1,14 @@
 ### Hi there 👋 Welcome to my Github Profile.
 
-👨‍💻 I'm MING! - Sr. Engineer,  Developer.
+👨‍💻 I'm MING! - Product UI Lead, prev Sr. Software Engineer,  Developer
 
-🥇 Award -  WWDC Swift Student Challenge Winner.
+🥇 Award -  WWDC Award Winner
 
-🔭 Graduated - The Hong Kong Polytechnic University, City University of Hong Kong, and Google Certified UX Design.
+🔭 Graduated - The Hong Kong Polytechnic University, City University of Hong Kong, and Google Certified UX Design
 
-🌱 Fields - SwiftUI (App), nextJS/VueJS (Web) and Tailwind (CSS).
+🌱 Fields - SwiftUI (App), NextJS/VueJS (Web), and Tailwind (CSS)
 
-🔬 Expert - Apple iOS, iPadOS, watchOS, macOS, and visionOS platforms.
+🔬 Expert -  iOS, iPadOS, watchOS, macOS, and visionOS platforms
 
 ⚡ Design - Adobe <a href="https://behance.net/1998design">Behance</a> & Stock / <a href="https://dribbble.com/1998design">Dribbble</a> @1998design
 

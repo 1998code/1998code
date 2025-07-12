@@ -2,9 +2,9 @@
 
 👨‍💻 I'm MING! - Product UI Lead, prev Sr. Software Engineer,  Developer
 
-🥇 Award -  WWDC Award Winner
+🥇 Awards -  WWDC Award Winner
 
-🔭 Graduated - The Hong Kong Polytechnic University, City University of Hong Kong, and Google Certified UX Design
+🔭 Studies - The Hong Kong Polytechnic University, City University of Hong Kong, and Google Certified UX Design
 
 🌱 Fields - SwiftUI (App), NextJS/VueJS (Web), and Tailwind (CSS)
 
